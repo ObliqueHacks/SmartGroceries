@@ -2,10 +2,10 @@
 module.exports = {
   darkMode: ["class"],
   content: [
-    './pages/**/*.{js,jsx}',
-    './components/**/*.{js,jsx}',
-    './app/**/*.{js,jsx}',
-    './src/**/*.{js,jsx}',
+    "./pages/**/*.{js,jsx}",
+    "./components/**/*.{js,jsx}",
+    "./app/**/*.{js,jsx}",
+    "./src/**/*.{js,jsx}",
   ],
   prefix: "",
   theme: {
@@ -27,6 +27,34 @@ module.exports = {
           to: { height: "0" },
         },
       },
+
+      colors: {
+        background: {
+          100: "#FEFEFE",
+          200: "#FDFEFE",
+          300: "#FBFEFE",
+          400: "#FAFDFD",
+          500: "#F9FCFD",
+          600: "#B6CED9",
+          700: "#7D9FB6",
+          800: "#4F7392",
+          900: "#2F5279",
+        },
+
+        primary: "#FD5E53",
+        secondary: "#B0EACD",
+        third: "#21BF73",
+      },
+
+      backgroundImage: {
+        "landing-photo": "url(/assets/landingpic-removebg.png)",
+      },
+
+      boxShadow: {
+        "custom-medium-red":
+          "0 8px 8px -3px rgba(254, 226, 226, 0.7), 0 4px 6px -2px rgba(254, 226, 226, 0.7)",
+      },
+
       animation: {
         "accordion-down": "accordion-down 0.2s ease-out",
         "accordion-up": "accordion-up 0.2s ease-out",
@@ -34,4 +62,4 @@ module.exports = {
     },
   },
   plugins: [require("tailwindcss-animate")],
-}
+};
