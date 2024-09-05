@@ -4,6 +4,7 @@ import { useState } from "react";
 import { IoIosMenu } from "react-icons/io";
 import { IoMdClose } from "react-icons/io";
 import { FaLinkedin } from "react-icons/fa6";
+import Link from "next/link";
 
 import React from "react";
 
@@ -23,33 +24,33 @@ export default function Mainnavbar() {
   return (
     <div className="font-semibold">
       <header className="w-full bg-background-200" id="header">
-        <nav className="flex justify-between w-[92%] mx-auto font-normal items-center">
+        <nav className="flex justify-between w-[92%] mx-auto font-normal items-center sticky top-0 z-50">
           <div className="flex flex-row items-center">
             <img className="w-20" src="/assets/logo.png"></img>
             <img className="w-0 md:w-52 h-10" src="/assets/logo2.png"></img>
           </div>
 
           <div
-            className={`absolute md:static md:min-h-fit md:w-auto justify-center pt-4 items-center bg-background-200 min-h-[60vh] left-0 top-[-100%] w-full flex px-5`}
+            className={`absolute md:static md:min-h-fit md:w-auto justify-center pt-4 items-center bg-background-200 min-h-[60vh] left-0 top-[-500%]  w-full flex px-5`}
           >
             <ul className="flex md:flex-row flex-col pb-14 md:items-center md:gap-16 gap-6 text-md">
               <li>
                 {" "}
-                <a
-                  href="#"
+                <Link
+                  href="/"
                   className="relative after:absolute after:left-0 after:right-0 after:bottom-0 after:top-6 after:h-[2px] after:bg-primary after:scale-x-0 after:transition-transform after:duration-300 hover:after:scale-x-100 cursor-pointer"
                 >
                   Home
-                </a>
+                </Link>
               </li>
               <li>
                 {" "}
-                <a
-                  href="#"
+                <Link
+                  href="/about"
                   className="relative after:absolute after:left-0 after:right-0 after:bottom-0 after:top-6 after:h-[2px] after:bg-primary after:scale-x-0 after:transition-transform after:duration-300 hover:after:scale-x-100 cursor-pointer"
                 >
                   About
-                </a>
+                </Link>
               </li>
               <li>
                 {" "}
