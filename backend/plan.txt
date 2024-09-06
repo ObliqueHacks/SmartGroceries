@@ -14,6 +14,21 @@ If avalibility becomes zero the item will be shown as a sillouhette.
 The admin should be able to update the current values as well change the tag (so be able to add tags etc.), avalibility, price etc. Maybe even some option for deals.
 
 
+For now going to assume admin account is alr created when initialized: 
+/addItem
+/Item (for update, delelte)
+/fetchItemList (listview for current items -- might need pagination or search or something through options)
+
+
 User Pov: 
+User is able to login, start a new cart or resume from previous. Alternatively, they may copy their whole previous cart which can be accessed through a history feature.
+User is able to set goals for their cart -- in terms of nutrional goals forming the cart for 1 week of groceries, 2200 calories per day, extra fiber content, extra protein content.
+Overall the cart should try to move towards a rec nutrional balance precoded but with adjustments made based on user preferences.
+User is able to preview pictures, nutrional facts, edit quantity etc of an item before adding it to their cart.
+
+
+Reccomendations for front end --> 
+We can predecide on tags, and sort items that way, so produce can be a tag for example in the backend.
+
 
 
