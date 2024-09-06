@@ -48,11 +48,18 @@ module.exports = {
 
       backgroundImage: {
         "landing-photo": "url(/assets/landingpic-removebg.png)",
+        "sale-photo-1": "url(/assets/sale1.jpg)",
       },
 
       boxShadow: {
         "custom-medium-red":
           "0 8px 8px -3px rgba(254, 226, 226, 0.7), 0 4px 6px -2px rgba(254, 226, 226, 0.7)",
+        "custom-green":
+          "0 8px 8px -3px rgba(33, 191, 115, 0.7), 0 4px 6px -2px rgba(33, 191, 115, 0.7)",
+      },
+
+      gridTemplateColumns: {
+        "basic-1": "auto 400px",
       },
 
       animation: {
