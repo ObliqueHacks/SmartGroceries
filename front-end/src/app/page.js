@@ -1,12 +1,10 @@
 import Image from "next/image";
 import Mainnavbar from "@/components/Mainnavbar";
+
+// UI
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
-import { FaArrowRightLong } from "react-icons/fa6";
-import { IoMdStarOutline } from "react-icons/io";
-import { MdOutlineStar } from "react-icons/md";
-import StarCard from "@/components/StarCard";
 import {
   Carousel,
   CarouselContent,
@@ -14,6 +12,15 @@ import {
   CarouselNext,
   CarouselPrevious,
 } from "@/components/ui/carousel";
+
+// Icons
+import { FaArrowRightLong } from "react-icons/fa6";
+import { IoMdStarOutline } from "react-icons/io";
+import { MdOutlineStar } from "react-icons/md";
+
+// Native UI
+import StarCard from "@/components/StarCard";
+import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
@@ -373,6 +380,8 @@ export default function Home() {
           </Carousel>
         </div>
       </div>
+
+      <Footer></Footer>
     </main>
   );
 }

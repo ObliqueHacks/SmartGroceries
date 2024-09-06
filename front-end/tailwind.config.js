@@ -44,6 +44,7 @@ module.exports = {
         primary: "#FD5E53",
         secondary: "#B0EACD",
         third: "#21BF73",
+        fourth: "#191D28",
       },
 
       backgroundImage: {
