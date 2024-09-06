@@ -1,0 +1,19 @@
+Rough Schema:
+
+AdminUser -- id,Username, password, name
+USER -- userName, password, name, [target nutrional profile fields]
+CART -- id, status (cancelled, archived, current), userId, total, total+hst, [nutritional scores fields]
+ITEM -- id, foodApiDataBaseId, pic, price ($.$$), addedBy[AdminUser id], avalibility, max_purchase_count, tag, [nutrional score fields]
+
+
+Plan for api --> 
+
+Admins Pov: 
+Admin user is able to login, upload a picture of a food item along with its avalibility, along with price and code to fetch info from api.
+If avalibility becomes zero the item will be shown as a sillouhette.
+The admin should be able to update the current values as well change the tag (so be able to add tags etc.), avalibility, price etc. Maybe even some option for deals.
+
+
+User Pov: 
+
+
