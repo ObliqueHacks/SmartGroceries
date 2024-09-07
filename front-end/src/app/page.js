@@ -25,7 +25,7 @@ import Footer from "@/components/Footer";
 export default function Home() {
   return (
     <main className="flex min-h-screen bg-background-500 flex-col">
-      <Mainnavbar></Mainnavbar>
+      <Mainnavbar className="w-full"></Mainnavbar>
 
       {/* Intro Section */}
       <div className="flex flex-col md:flex-row w-full">
@@ -118,7 +118,7 @@ export default function Home() {
 
       {/* Sale/Trending Section */}
 
-      <div className="flex flex-row w-full items-center justify-center gap-40 pb-10 pt-10 ">
+      {/* <div className="flex flex-row w-full items-center justify-center gap-40 pb-10 pt-10 ">
         <Tabs
           defaultValue="NewArrivals"
           className="w-[400px] bg-background-100 shadow-lg rounded-xl "
@@ -189,11 +189,11 @@ export default function Home() {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
 
       {/* Browsing Cat */}
 
-      <div className="flex flex-col items-center pt-10 pb-10 gap-4">
+      {/* <div className="flex flex-col items-center pt-10 pb-10 gap-4">
         <p className="text-4xl font-bold">Browse Our Catelogue</p>
         <p className="text-slate-400">Checkout some of our produce!</p>
         <div className="flex flex-row mt-4 gap-4">
@@ -238,10 +238,10 @@ export default function Home() {
             <p className="text-slate-500 text-sm">20+ Items</p>
           </div>
         </div>
-      </div>
+      </div> */}
 
       {/* Customer Feedback */}
-      <div className="flex flex-col items-center pt-10 gap-4 bg-green-100 ">
+      {/* <div className="flex flex-col items-center pt-10 gap-4 bg-green-100 ">
         {" "}
         <p className="text-4xl font-bold">Our Customer Feedback</p>
         <p className="text-slate-400">
@@ -379,9 +379,9 @@ export default function Home() {
             <CarouselNext className="hover:bg-primary transition-colors ease-in duration-200" />
           </Carousel>
         </div>
-      </div>
+      </div> */}
 
-      <Footer></Footer>
+      {/* <Footer></Footer> */}
     </main>
   );
 }

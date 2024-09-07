@@ -5,7 +5,7 @@ import { FaArrowRightLong } from "react-icons/fa6";
 
 export default function Page() {
   return (
-    <div className="flex h-screen bg-background-500 flex-col">
+    <div className="flex bg-background-500 flex-col">
       <Mainnavbar></Mainnavbar>
       {/* Organic Section  */}
     </div>
