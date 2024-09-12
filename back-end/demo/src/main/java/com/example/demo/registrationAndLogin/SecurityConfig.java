@@ -20,7 +20,6 @@ public class SecurityConfig {
                         .anyRequest().authenticated()  // Protect all other endpoints
                 )
                 .formLogin();  // Enable form login
-
         return http.build();
     }
 
@@ -32,7 +31,6 @@ public class SecurityConfig {
                 .password("password")
                 .roles("USER")
                 .build();
-
         return new InMemoryUserDetailsManager(user);
     }
 }
