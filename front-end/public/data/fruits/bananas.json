@@ -1,0 +1,42 @@
+﻿[
+  {
+    "Name": "Baby Bananas, Bunch",
+    "Price": "3.49/ea",
+    "Image": "https://www.freshdirect.com/media/images/product/fruit_2/fru_pid_2210524_z.jpg"
+  },
+  {
+    "Name": "Yellow Plantains",
+    "Price": "1.29/ea",
+    "Image": "https://www.freshdirect.com/media/images/product/fruit_2/fru_dmy_ea_30232_z.jpg"
+  },
+  {
+    "Name": "Yellow Bananas, Multipack",
+    "Price": "10.99/ea",
+    "Image": "https://www.freshdirect.com/media/images/product/fruit_3/fru_pid_2210792_z.jpg"
+  },
+  {
+    "Name": "Green Plantains",
+    "Price": "1.29/ea",
+    "Image": "https://www.freshdirect.com/media/images/product/fruit_3/fru_dmy_ea_30233_z.jpg"
+  },
+  {
+    "Name": "Equal Exchange Fair Trade Organic Bananas",
+    "Price": "39.99/ea",
+    "Image": "https://www.freshdirect.com/media/images/product/fruit_4/ban_yllw_cs_z.jpg"
+  },
+  {
+    "Name": "Yellow Bananas",
+    "Price": "1.99/ea",
+    "Image": "https://www.freshdirect.com/media/images/product/fruit_3/fru_banana_bnch_ea_z.jpg"
+  },
+  {
+    "Name": "Equal Exchange Fair Trade Organic Bananas",
+    "Price": "2.79/ea",
+    "Image": "https://www.freshdirect.com/media/images/product/fruit_3/fru_pid_2210788_z.jpg"
+  },
+  {
+    "Name": "Yellow Bananas, Case",
+    "Price": "28.99/ea",
+    "Image": "https://www.freshdirect.com/media/images/product/fruit_4/ban_yllw_cs_z.jpg"
+  }
+]

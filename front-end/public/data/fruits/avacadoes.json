@@ -1,0 +1,27 @@
+﻿[
+	{
+		"Name": "Green-Skinned Avocado, Firm, Large",
+		"Price": "3.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_2/avc_fla_z.jpg"
+	},
+	{
+		"Name": "Hass Avocados",
+		"Price": "7.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_1/veg_fd_fgavcrdypk_z.jpg"
+	},
+	{
+		"Name": "Hass Avocado",
+		"Price": "2.99/ea\r\nSave 16%",
+		"Image": "https://www.freshdirect.com/media/images/product/fruit_2/avc_has_vpk_z.jpg"
+	},
+	{
+		"Name": "Organic Hass Avocado",
+		"Price": "3.49/ea\r\nSave 14%",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_1/avc_has_z.jpg"
+	},
+	{
+		"Name": "Organic Hass Avocados",
+		"Price": "7.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/fruit_2/avc_has_or_z.jpg"
+	}
+]

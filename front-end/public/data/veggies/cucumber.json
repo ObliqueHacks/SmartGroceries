@@ -1,0 +1,32 @@
+﻿[
+	{
+		"Name": "Green Cucumber",
+		"Price": "1.29/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_3/cuc_grn_z.jpg"
+	},
+	{
+		"Name": "Mini Seedless Cucumber Pack",
+		"Price": "2.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_2/veg_ccmbr_minisdlss_z.jpg"
+	},
+	{
+		"Name": "Organic Green Cucumber",
+		"Price": "1.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_3/cuc_grn_or_z.jpg"
+	},
+	{
+		"Name": "Organic Greenhouse Cucumber",
+		"Price": "3.49/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_3/veg_cuc_hths_org_z.jpg"
+	},
+	{
+		"Name": "Organic Mini Seedless Cucumbers",
+		"Price": "4.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_2/veg_pid_2301853_z.jpg"
+	},
+	{
+		"Name": "Wells Homestead Acres",
+		"Price": "1.29/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_3/veg_pid_2302745_z.jpg"
+	}
+]

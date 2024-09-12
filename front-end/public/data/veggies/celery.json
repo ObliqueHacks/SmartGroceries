@@ -1,0 +1,27 @@
+﻿[
+	{
+		"Name": "Deer Run FarmsCelery",
+		"Price": "2.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_3/veg_pid_2302484_z.jpg"
+	},
+	{
+		"Name": "Ocean Mist FarmsCelery",
+		"Price": "2.49/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_2/clry_clrystlk_z.jpg"
+	},
+	{
+		"Name": "Organic Celery Sticks",
+		"Price": "6.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_1/veg_pid_2301588_z.jpg"
+	},
+	{
+		"Name": "Organic Diced Celery",
+		"Price": "6.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_1/veg_pid_2301589_z.jpg"
+	},
+	{
+		"Name": "Hepworth FarmsLocal Organic Celery",
+		"Price": "2.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_2/veg_pid_2302522_z.jpg"
+	}
+]

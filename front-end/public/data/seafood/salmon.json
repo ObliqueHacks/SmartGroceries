@@ -1,0 +1,49 @@
+[
+  {
+    "Name": "Wild King Salmon Fillet",
+    "Price": "23.99/lb",
+    "Image": "https://www.freshdirect.com/media/images/product/seafood/fish_fillets/sflt_slm_kngwd_z.jpg"
+  },
+
+  {
+    "Name": "Farm-Raised Artic Char Fillet",
+    "Price": "17.99/lb",
+    "Image": "https://www.freshdirect.com/media/images/product/seafood_1/fflt_arcticchar_z.jpg"
+  },
+
+  {
+    "Name": "Ora KingFarm-Raised King Salmon Fillet",
+    "Price": "28.99/lb",
+    "Image": "https://www.freshdirect.com/media/images/product/seafood_1/sea_pid_3600989_z.jpg"
+  },
+  {
+    "Name": "Organic Farm-Raised Salmon Fillet Family Pack",
+    "Price": "4ct",
+    "Image": "https://www.freshdirect.com/media/images/product/seafood_1/flflt_slmn_org_z.jpg"
+  },
+  {
+    "Name": "Sixty SouthFarm-Raised Atlantic Salmon Fillet",
+    "Price": "13.99/lb",
+    "Image": "https://www.freshdirect.com/media/images/product/seafood_1/vpk_salmon_org_fllt_z.jpg"
+  },
+  {
+    "Name": "Sixty SouthFarm-Raised Atlantic Salmon Fillet, Center Cut",
+    "Price": "19.18/lb",
+    "Image": "https://www.freshdirect.com/media/images/product/seafood_1/sea_pid_3604152_z.jpg"
+  },
+  {
+    "Name": "Sixty SouthFarm-Raised Atlantic Salmon Fillet, Family Pack",
+    "Price": "14.49/lb",
+    "Image": "https://www.freshdirect.com/media/images/product/seafood_1/sea_pid_3604154_z.jpg"
+  },
+  {
+    "Name": "Sixty SouthFarm-Raised Atlantic Salmon Whole Side Fillet",
+    "Price": "14.49/lb",
+    "Image": "https://www.freshdirect.com/media/images/product/seafood_1/sea_pid_3604151_z.jpg"
+  },
+  {
+    "Name": "Wild Alaska Sockeye Salmon Fillet, Previously Frozen",
+    "Price": "19.99 Save 25%",
+    "Image": "https://www.freshdirect.com/media/images/product/seafood_1/sea_pid_3604150_z.jpg"
+  }
+]

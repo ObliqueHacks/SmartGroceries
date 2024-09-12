@@ -1,0 +1,67 @@
+﻿[
+	{
+		"Name": "Hepworth FarmsLocal Organic Escarole",
+		"Price": "2.49/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_2/veg_pid_2302545_z.jpg"
+	},
+	{
+		"Name": "Jersey FreshLocal Escarole",
+		"Price": "3.49/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_3/veg_pid_2302828_z.jpg"
+	},
+	{
+		"Name": "Lancaster Farm Fresh CooperativeLocal Organic Baby Romaine",
+		"Price": "4.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_3/veg_pid_2302730_z.jpg"
+	},
+	{
+		"Name": "Lancaster Farm Fresh CooperativeLocal Organic Young Arugula",
+		"Price": "4.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_2/veg_pid_2302376_z.jpg"
+	},
+	{
+		"Name": "Lancaster Farm Fresh CooperativeOrganic Little Gem Lettuce",
+		"Price": "1.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_2/veg_pid_2302377_z.jpg"
+	},
+	{
+		"Name": "Organic Green Leaf Lettuce",
+		"Price": "2.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_4/veg_pid_2302671_z.jpg"
+	},
+	{
+		"Name": "Organic Red Leaf Lettuce",
+		"Price": "2.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_1/ltc_rmanhrts_z.jpg"
+	},
+	{
+		"Name": "Baby Arugula",
+		"Price": "5.49/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_3/ltc_grnlf_or_z.jpg"
+	},
+	{
+		"Name": "Butter, Plus!",
+		"Price": "5.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_3/ltc_rdlf_or_z.jpg"
+	},
+	{
+		"Name": "Radicchio",
+		"Price": "3.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_3/ltc_rman_or_z.jpg"
+	},
+	{
+		"Name": "Satur Farms Wild Arugula Pack",
+		"Price": "3.49/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_1/veg_pid_2301645_z.jpg"
+	},
+	{
+		"Name": "Satur Farms Wild Arugula Pack",
+		"Price": "7.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_3/veg_pid_2302709_z.jpg"
+	},
+	{
+		"Name": "",
+		"Price": "",
+		"Image": ""
+	}
+]

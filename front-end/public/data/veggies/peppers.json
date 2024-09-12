@@ -1,0 +1,132 @@
+﻿[
+	{
+		"Name": "Mixed Hot Peppers",
+		"Price": "4.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_1/veg_pid_2301492_z.jpg"
+	},
+	{
+		"Name": "Thai Peppers, Packaged",
+		"Price": "2.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_1/veg_pep_thaichpkg_z.jpg"
+	},
+	{
+		"Name": "Ark Foods Cubanelle Peppers",
+		"Price": "6.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_4/veg_pid_2302984_z.jpg"
+	},
+	{
+		"Name": "Ark Foods Green Shishtio Peppers",
+		"Price": "4.29/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_2/veg_pid_2301973_z.jpg"
+	},
+	{
+		"Name": "Habanero Peppers",
+		"Price": "4.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_3/veg_pep_hbnropkg_z.jpg"
+	},
+	{
+		"Name": "Hepworth Farms",
+		"Price": "0.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_2/veg_pid_2302527_z.jpg"
+	},
+	{
+		"Name": "Jalapeño Pepper",
+		"Price": "0.49/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_3/veg_pid_2302011_z.jpg"
+	},
+	{
+		"Name": "Organic Banana Peppers",
+		"Price": "3.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_3/veg_pid_2302849_z.jpg"
+	},
+	{
+		"Name": "Organic Camren Peppers",
+		"Price": "3.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_3/veg_pid_2302851_z.jpg"
+	},
+	{
+		"Name": "Organic Green Peppers",
+		"Price": "3.49/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_3/veg_lcllb_30207_z.jpg"
+	},
+	{
+		"Name": "Organic Jalapenos",
+		"Price": "0.79/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_2/veg_pid_2302415_z.jpg"
+	},
+	{
+		"Name": "Organic Purple Bell Peppers",
+		"Price": "4.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_3/veg_pid_2302761_z.jpg"
+	},
+	{
+		"Name": "Organic Habanada Peppers",
+		"Price": "4.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_2/veg_pid_2302601_z.jpg"
+	},
+	{
+		"Name": "Mini Sweet Mixed Peppers",
+		"Price": "5.49/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_1/veg_ppprswt_mxpk_z.jpg"
+	},
+	{
+		"Name": "Orange Greenhouse Bell Pepper",
+		"Price": "4.49/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_3/pep_orngbell_z.jpg"
+	},
+	{
+		"Name": "Organic Green Bell Peppers",
+		"Price": "5.49/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_3/veg_pid_2302611_z.jpg"
+	},
+	{
+		"Name": "Organic Orange Greenhouse Bell Peppers",
+		"Price": "5.49/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_3/orgveg_peppr_orng_z.jpg"
+	},
+	{
+		"Name": "Organic Rainbow Pepper Pack",
+		"Price": "7.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_1/veg_pid_2301493_z.jpg"
+	},
+	{
+		"Name": "Organic Red Greenhouse Bell Pepper",
+		"Price": "5.49/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_3/pep_rdbell_or_z.jpg"
+	},
+	{
+		"Name": "Organic Sweet Mini Bell Peppers",
+		"Price": "3.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_3/veg_orgppr_blla_z.jpg"
+	},
+	{
+		"Name": "Organic Yellow Greenhouse Bell Peppers",
+		"Price": "5.49/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_3/orgveg_peppr_yllw_z.jpg"
+	},
+	{
+		"Name": "Poblano Pepper",
+		"Price": "4.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_3/pep_pblno_z.jpg"
+	},
+	{
+		"Name": "Rainbow Pepper Pack",
+		"Price": "6.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_1/veg_pprs_rainbow_z.jpg"
+	},
+	{
+		"Name": "Red Greenhouse Bell Pepper",
+		"Price": "4.49/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_3/pep_rdbell_z.jpg"
+	},
+	{
+		"Name": "Serrano Peppers",
+		"Price": "0.79/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/vegetables/peppers/veg_pep_srnopkg_z.jpg"
+	},
+	{
+		"Name": "Yellow Greenhouse Bell Pepper",
+		"Price": "4.49/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_3/pep_yllwbell_z.jpg"
+	}
+]

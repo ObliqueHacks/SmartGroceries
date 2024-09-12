@@ -22,7 +22,11 @@ import { MdOutlineStar } from "react-icons/md";
 import StarCard from "@/components/StarCard";
 import Footer from "@/components/Footer";
 
-export default function Home() {
+export default async function Home() {
+  // Fetch the data
+
+  
+
   return (
     <main className="flex min-h-screen bg-background-500 flex-col">
       <Mainnavbar className="w-full"></Mainnavbar>

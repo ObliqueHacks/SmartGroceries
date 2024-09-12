@@ -1,0 +1,132 @@
+﻿[
+	{
+		"Name": "FageTOTAL 0% Greek Yogurt, Plain",
+		"Price": "6.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/dairy_18/dai_fage_0_35oz_z.jpg"
+	},
+	{
+		"Name": "FageTOTAL 2% Greek Yogurt, Plain",
+		"Price": "6.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/dairy_18/dai_fage_2_35oz_z.jpg"
+	},
+	{
+		"Name": "Siggi'sSkyr Simple Ingredient Icelandic-Style Strained 0% Nonfat Yogurt, Vanilla",
+		"Price": "6.29/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/dairy_21/dai_pid_2005306_z.jpg"
+	},
+	{
+		"Name": "Siggi'sPlant-Based Coconut Blend Yogurt, Vanilla",
+		"Price": "7.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/dairy_18/dai_total_0_plain_01_z.jpg"
+	},
+	{
+		"Name": "FageTOTAL 5% Greek Yogurt, Plain",
+		"Price": "6.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/dairy_17/dai_pid_2004995_z.jpg"
+	},
+	{
+		"Name": "Siggi'sSkyr Simple Ingredient Icelandic-Style Strained 0% Nonfat Yogurt, Mixed Berries & Acai",
+		"Price": "6.29/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/dairy_18/dai_pid_2003434_z.jpg"
+	},
+	{
+		"Name": "ChobaniNon-Fat Greek Yogurt, Plain",
+		"Price": "6.49/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/dairy_21/dai_pid_2005307_z.jpg"
+	},
+	{
+		"Name": "Siggi'sSkyr Icelandic-Style Strained 4% Whole Milk Yogurt, Plain",
+		"Price": "6.89/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/dairy_16/dai_pid_2003056_z.jpg"
+	},
+	{
+		"Name": "Stonyfield OrganicSmooth and Creamy Probiotic Whole Milk Yogurt, Plain",
+		"Price": "5.69/ea\r\nSave 21%",
+		"Image": "https://www.freshdirect.com/media/images/product/dairy_17/dai_pid_2003440_z.jpg"
+	},
+	{
+		"Name": "Stonyfield OrganicKids Lowfat Yogurt Tubes, Strawberry and Mixed Berry",
+		"Price": "8.89/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/dairy_16/dai_stony_plain_01_z.jpg"
+	},
+	{
+		"Name": "ChobaniNon-Fat Greek Yogurt, Peach on the Bottom",
+		"Price": "1.79/ea\r\nSave 5%",
+		"Image": "https://www.freshdirect.com/media/images/product/dairy_20/dai_pid_2003286_z.jpg"
+	},
+	{
+		"Name": "Siggi'sSkyr Icelandic-Style Strained Non-Fat Yogurt, Plain",
+		"Price": "6.89/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/dairy_16/dai_chbni_pch6oz_z.jpg"
+	},
+	{
+		"Name": "Stonyfield OrganicLowfat Yogurt Smoothies, Wild Berry",
+		"Price": "6.39\r\nSave 22%",
+		"Image": "https://www.freshdirect.com/media/images/product/dairy_17/dai_pid_2002936_z.jpg"
+	},
+	{
+		"Name": "ChobaniNon-Fat Greek Yogurt, Vanilla Blended",
+		"Price": "1.79/ea\r\nSave 5%",
+		"Image": "https://www.freshdirect.com/media/images/product/dairy_18/dai_total_2_strain_01_z.jpg"
+	},
+	{
+		"Name": "Stonyfield OrganicLowfat Yogurt Smoothies, Strawberry",
+		"Price": "6.39\r\nSave 22%",
+		"Image": "https://www.freshdirect.com/media/images/product/dairy_16/dai_pid_2003285_z.jpg"
+	},
+	{
+		"Name": "ChobaniNon-Fat Greek Yogurt, Black Cherry on the Bottom",
+		"Price": "1.79/ea\r\nSave 5%",
+		"Image": "https://www.freshdirect.com/media/images/product/dairy_16/dai_pid_2003313_z.jpg"
+	},
+	{
+		"Name": "Oui by YoplaitFrench Style Yogurt, Strawberry",
+		"Price": "16.72\r\nSave 5%",
+		"Image": "https://www.freshdirect.com/media/images/product/dairy_16/dai_pid_2003284_z.jpg"
+	},
+	{
+		"Name": "ChobaniLow-Fat Greek Yogurt, Mixed Berry Blended",
+		"Price": "1.79/ea\r\nSave 5%",
+		"Image": "https://www.freshdirect.com/media/images/product/dairy_16/dai_chbni_blkchry6oz_z.jpg"
+	},
+	{
+		"Name": "Siggi'sKids Low-Fat Yogurt Pouches, Strawberry & Banana",
+		"Price": "6.79/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/dairy_18/dai_pid_4202417_z.jpg"
+	},
+	{
+		"Name": "FageTOTAL 2% Greek Yogurt, Strawberry",
+		"Price": "1.99/ea\r\nSave 37%",
+		"Image": "https://www.freshdirect.com/media/images/product/dairy_16/dai_pid_2003714_z.jpg"
+	},
+	{
+		"Name": "Oui by YoplaitFrench Style Yogurt, Vanilla",
+		"Price": "16.72\r\nSave 5%",
+		"Image": "https://www.freshdirect.com/media/images/product/dairy_16/dai_pid_2004761_z.jpg"
+	},
+	{
+		"Name": "ChobaniNon-Fat Greek Yogurt, Blueberry on the Bottom",
+		"Price": "1.79/ea\r\nSave 5%",
+		"Image": "https://www.freshdirect.com/media/images/product/dairy_17/dai_fage_2ygrt_stwby_z.jpg"
+	},
+	{
+		"Name": "Siggi'sSkyr Icelandic-Style Strained Non-Fat Yogurt, Vanilla",
+		"Price": "6.89/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/dairy_18/dai_pid_4202418_z.jpg"
+	},
+	{
+		"Name": "ChobaniAll Natural Non-Fat Greek Yogurt, Plain",
+		"Price": "5.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/dairy_16/dai_chbni_blu6oz_z.jpg"
+	},
+	{
+		"Name": "Siggi'sPlant-Based Coconut Blend Yogurt, Sweetened Plain",
+		"Price": "7.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/dairy_17/dai_pid_2002935_z.jpg"
+	},
+	{
+		"Name": "ChobaniLow-Fat Greek Yogurt, Coconut Blended",
+		"Price": "1.79/ea\r\nSave 5%",
+		"Image": "https://www.freshdirect.com/media/images/product/dairy_20/dai_pid_2003586_z.jpg"
+	}
+]

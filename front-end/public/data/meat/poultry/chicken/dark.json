@@ -1,0 +1,112 @@
+﻿[
+	{
+		"Name": "Farmer FocusOrganic Chicken Wings",
+		"Price": "6.29/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/mea_pid_3342139_z.jpg"
+	},
+	{
+		"Name": "Empire KosherChicken Drumsticks, Raised w/o Antibiotics",
+		"Price": "5.49/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_2/kchx_emp_drmstk_z.jpg"
+	},
+	{
+		"Name": "Empire KosherChicken Leg Quarters, Raised w/o Antibiotics",
+		"Price": "4.59/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_2/kchx_emp_leg_4_z.jpg"
+	},
+	{
+		"Name": "Empire KosherChicken Thighs w/ Back Portions, Raised w/o Antibiotics",
+		"Price": "6.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_2/kchx_emp_thigh_z.jpg"
+	},
+	{
+		"Name": "Farmer FocusBoneless Skinless Chicken Thighs Value Pack",
+		"Price": "5.49/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/mea_pid_3362211_z.jpg"
+	},
+	{
+		"Name": "Farmer FocusOrganic Boneless Skinless Chicken Thighs",
+		"Price": "8.49/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/mea_pid_3362079_z.jpg"
+	},
+	{
+		"Name": "Farmer FocusOrganic Chicken Wings, Party Pack, Frozen",
+		"Price": "6.69/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/mea_pid_3362152_z.jpg"
+	},
+	{
+		"Name": "",
+		"Price": "",
+		"Image": ""
+	},
+	{
+		"Name": "Katie's BestBoneless Skinless Chicken Thighs, Air-Chilled, Raised w/o Antibiotics",
+		"Price": "6.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_2/chxth_bsls_abf_z.jpg"
+	},
+	{
+		"Name": "Katie's BestChicken Drumsticks & Thighs, Air-Chilled, Raised w/o Antibiotics",
+		"Price": "4.59/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_2/chxdt_cmbo_abf_z.jpg"
+	},
+	{
+		"Name": "Katie's BestChicken Drumsticks, Air-Chilled, Raised w/o Antibiotics",
+		"Price": "3.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_2/chxdrm_abf_z.jpg"
+	},
+	{
+		"Name": "Katie's BestWhole Chicken Legs, Air-Chilled, Raised w/o Antibiotics",
+		"Price": "3.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_2/chxth_abf_z.jpg"
+	},
+	{
+		"Name": "LaBelle PatrimoinePasture-Raised Heritage Chicken Drumsticks, Slow-Growth, Air-Chilled, Raised without Antibiotics",
+		"Price": "5.29/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_2/chxlg_wh_abf_z.jpg"
+	},
+	{
+		"Name": "LaBelle PatrimoinePasture-Raised Heritage Chicken Thighs, Slow-Growth, Air-Chilled, Raised without Antibiotics",
+		"Price": "6.59/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/mea_pid_3362206_z.jpg"
+	},
+	{
+		"Name": "LaBelle PatrimoinePasture-Raised Heritage Whole Chicken Wings, Slow-Growth, Air-Chilled, Raised without Antibiotics",
+		"Price": "6.79/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/mea_pid_3362205_z.jpg"
+	},
+	{
+		"Name": "Smart ChickenOrganic Boneless Skinless Thighs, Air-Chilled",
+		"Price": "10.09/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/mea_pid_3362207_z.jpg"
+	},
+	{
+		"Name": "Smart ChickenOrganic Chicken Wings, Air Chilled",
+		"Price": "7.49/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_2/mea_pid_3362003_z.jpg"
+	},
+	{
+		"Name": "Smart ChickenOrganic Whole Legs, Air-Chilled",
+		"Price": "5.29/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_2/mea_pid_3362151_z.jpg"
+	},
+	{
+		"Name": "Springer Mountain FarmsBoneless Skinless Chicken Thighs, Raised w/o Antibiotics",
+		"Price": "5.89/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_2/mea_pid_3362036_z.jpg"
+	},
+	{
+		"Name": "Springer Mountain FarmsChicken Drumsticks, Raised w/o Antibiotics",
+		"Price": "3.59/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/mea_pid_3362091_z.jpg"
+	},
+	{
+		"Name": "Springer Mountain FarmsChicken Thighs, Raised w/o Antibiotics",
+		"Price": "3.89/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/mea_pid_3362086_z.jpg"
+	},
+	{
+		"Name": "Sweet Chili Boneless Chicken Thighs, Raised w/o Antibiotics, Uncooked",
+		"Price": "8.49/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/mea_pid_3362087_z.jpg"
+	}
+]

@@ -1,0 +1,37 @@
+﻿[
+	{
+		"Name": "Ark FoodsFairytale Eggplant",
+		"Price": "4.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_3/veg_pid_2302895_z.jpg"
+	},
+	{
+		"Name": "Chinese Eggplant",
+		"Price": "3.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_3/veg_pid_2301707_z.jpg"
+	},
+	{
+		"Name": "Organic Fairy Tale Eggplant",
+		"Price": "3.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_1/veg_pid_2301931_z.jpg"
+	},
+	{
+		"Name": "Local Organic Graffiti Eggplant",
+		"Price": "4.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_1/egplnt_ital_z.jpg"
+	},
+	{
+		"Name": "Local Eggplant",
+		"Price": "1.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_3/veg_pid_2302771_z.jpg?lastModify=2021-08-31T16:13:31&publishId=3360"
+	},
+	{
+		"Name": "Italian Eggplant",
+		"Price": "4.49/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_1/egplnt_ital_z.jpg?lastModify=2014-12-17T14:13:35&publishId=3360"
+	},
+	{
+		"Name": "Organic Eggplant",
+		"Price": "3.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_3/egplnt_reg_or_z.jpg?lastModify=2021-03-26T16:45:57&publishId=3360"
+	}
+]

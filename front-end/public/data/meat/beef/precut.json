@@ -1,0 +1,47 @@
+﻿[
+	{
+		"Name": "Local Angus RWABeef Round Cubes",
+		"Price": "10.59/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat/beef/abf_bf/mea_bf_abf_rndcubes_z.jpg"
+	},
+	{
+		"Name": "Local Angus RWABeef Chuck Stew Meat",
+		"Price": "10.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_2/bstw_beef_local_z.jpg"
+	},
+	{
+		"Name": "Local Angus RWABraciola",
+		"Price": "10.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/mea_brac_abf_z.jpg"
+	},
+	{
+		"Name": "100% Grass-Fed LocalBeef Sandwich Steak",
+		"Price": "11.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/mea_pid_3330017_z.jpg"
+	},
+	{
+		"Name": "Local Angus RWABeef Stir-Fry Strips",
+		"Price": "11.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat/beef/stew_soup/bstp_stirfry_z.jpg"
+	},
+	{
+		"Name": "100% Grass-Fed LocalBeef Fajita Strips",
+		"Price": "12.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/mea_pid_3330233_z.jpg"
+	},
+	{
+		"Name": "100% Grass-Fed LocalBeef Sirloin Cubes",
+		"Price": "12.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/mea_pid_3330019_z.jpg"
+	},
+	{
+		"Name": "100% Grass-Fed LocalBeef Stir-Fry Strips",
+		"Price": "12.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/mea_pid_3330016_z.jpg"
+	},
+	{
+		"Name": "100% Grass-Fed LocalBeef Chuck Stew Meat",
+		"Price": "13.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_2/mea_stewmt_grsfed_z.jpg"
+	}
+]

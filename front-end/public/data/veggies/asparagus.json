@@ -1,0 +1,22 @@
+﻿[
+	{
+		"Name": "Pencil Asparagus",
+		"Price": "5.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_1/veg_pid_2301855_z.jpg"
+	},
+	{
+		"Name": "Organic Asparagus",
+		"Price": "6.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_3/asp_asp_org_bch_z.jpg"
+	},
+	{
+		"Name": "Trimmed Asparagus",
+		"Price": "5.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_3/veg_pid_2302707_z.jpg"
+	},
+	{
+		"Name": "FreshDirect",
+		"Price": "6.49/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/veg_1/hveg_fd_mwgrnasp_z.jpg"
+	}
+]

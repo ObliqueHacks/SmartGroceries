@@ -1,0 +1,147 @@
+﻿[
+	{
+		"Name": "Local Angus RWABraciola",
+		"Price": "10.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/mea_brac_abf_z.jpg"
+	},
+	{
+		"Name": "Local Angus RWATop Round Steak",
+		"Price": "10.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/mea_tprnd_abf_z.jpg"
+	},
+	{
+		"Name": "100% Grass-Fed LocalBeef Eye Round Steak",
+		"Price": "13.99\r\nSave 15%",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_2/mea_pid_3330022_z.jpg"
+	},
+	{
+		"Name": "100% Grass-Fed LocalBeef Sandwich Steak",
+		"Price": "11.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/mea_pid_3330017_z.jpg"
+	},
+	{
+		"Name": "Sirloin Tip Steak",
+		"Price": "12.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/bstk_silvertip_z.jpg"
+	},
+	{
+		"Name": "100% Grass-Fed LocalBeef Sirloin Tip Steak",
+		"Price": "13.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/mea_pid_3330020_z.jpg"
+	},
+	{
+		"Name": "Local Angus RWABoneless Center-Cut Top Sirloin Steak",
+		"Price": "15.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_2/bstk_srloin_bnls_local_z.jpg"
+	},
+	{
+		"Name": "Local Angus RWABoneless Chuck Short Ribs",
+		"Price": "15.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/mea_pid_3330223_z.jpg"
+	},
+	{
+		"Name": "T-Bone Steak",
+		"Price": "16.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/mea_pid_3335270_z.jpg"
+	},
+	{
+		"Name": "100% Grass-Fed LocalBoneless Center-Cut Top Sirloin Steak",
+		"Price": "17.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_2/mbf_blssril_lcl_z.jpg"
+	},
+	{
+		"Name": "100% Grass-Fed LocalBoneless Chuck Short Ribs",
+		"Price": "17.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/mea_pid_3330224_z.jpg"
+	},
+	{
+		"Name": "Local Angus RWAEdge of Eye Steak",
+		"Price": "17.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/mea_delmon_stk_abf_z.jpg"
+	},
+	{
+		"Name": "100% Grass-Fed LocalEdge of Eye Steak",
+		"Price": "18.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/mea_pid_3330025_z.jpg"
+	},
+	{
+		"Name": "NY Strip Steak, Boneless",
+		"Price": "18.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_2/mea_pid_3330076_z.jpg"
+	},
+	{
+		"Name": "100% Grass-Fed LocalDenver Cut Steak",
+		"Price": "19.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_2/mea_pid_3330144_z.jpg"
+	},
+	{
+		"Name": "Local Angus RWADenver Cut Steak",
+		"Price": "19.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/mea_denver_stk_abf_z.jpg"
+	},
+	{
+		"Name": "Local Angus RWAFlank Steak",
+		"Price": "19.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/mea_bf_abf_flankstk_local_z.jpg"
+	},
+	{
+		"Name": "Rib Eye Steak, Bone-in",
+		"Price": "19.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/mea_pid_3335269_z.jpg"
+	},
+	{
+		"Name": "100% Grass-Fed LocalHanger Steak",
+		"Price": "20.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_2/mea_pid_3330132_z.jpg"
+	},
+	{
+		"Name": "Bourbon Marinated Flank Steak, Raised w/o Antibiotics, Uncooked",
+		"Price": "22.19/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/mea_pid_3335247_z.jpg"
+	},
+	{
+		"Name": "100% Grass-Fed LocalBeef Flank Steak",
+		"Price": "22.29/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/mea_pid_3330024_z.jpg"
+	},
+	{
+		"Name": "Rib Eye Steak, Boneless",
+		"Price": "22.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_2/mea_pid_3330081_z.jpg"
+	},
+	{
+		"Name": "Chimichurri Marinated Beef Flank Steak, Uncooked",
+		"Price": "23.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_2/mea_flnkstk_chmchrry_z.jpg"
+	},
+	{
+		"Name": "100% Grass-Fed LocalNY Strip Steak, Boneless",
+		"Price": "27.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat/beef/steaks/mbf_strpstk_lcl_z.jpg"
+	},
+	{
+		"Name": "Kosher Beef Rib Eye Steak",
+		"Price": "29.29/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/mea_pid_3335229_z.jpg"
+	},
+	{
+		"Name": "Prime ReserveLocal Angus RWA NY Strip Steak, Boneless",
+		"Price": "29.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_2/bstk_skirt_stk_z.jpg"
+	},
+	{
+		"Name": "Kosher Beef Skirt Steak",
+		"Price": "30.29/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat/beef/steaks/prag_bstk_shell_bnls_z.jpg"
+	},
+	{
+		"Name": "100% Grass-Fed LocalBone-in Rib Steak, Raised w/o Antibiotics",
+		"Price": "32.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/mea_pid_3335232_z.jpg"
+	},
+	{
+		"Name": "Prime ReserveLocal Angus RWA Bone-In Rib Steak",
+		"Price": "33.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_2/mea_pid_3330094_z.jpg"
+	}
+]
