@@ -1,0 +1,47 @@
+﻿[
+	{
+		"Name": "Bacon and Cheddar Beef Burgers",
+		"Price": "9.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/mea_pid_3335250_z.jpg"
+	},
+	{
+		"Name": "Jalapeño and Cheddar Beef Burgers",
+		"Price": "9.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/mea_pid_3335260_z.jpg"
+	},
+	{
+		"Name": "",
+		"Price": "10.99/lb",
+		"Image": ""
+	},
+	{
+		"Name": "Savory Steakhouse Beef Burgers",
+		"Price": "10.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/mea_pid_3335265_z.jpg"
+	},
+	{
+		"Name": "",
+		"Price": "",
+		"Image": ""
+	},
+	{
+		"Name": "Pat LaFriedaBeef Brisket Hamburger, Fresh",
+		"Price": "11.49/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/mea_lafrda_brsktbrgr_z.jpg"
+	},
+	{
+		"Name": "Pat LaFriedaBeef Short Rib Hamburger, Fresh",
+		"Price": "11.49/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/mea_lafrda_shrtrbbrgr_z.jpg"
+	},
+	{
+		"Name": "Pat LaFriedaOriginal Beef Hamburger, Fresh",
+		"Price": "11.49/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/mea_lafrda_orgnlbrgr_z.jpg"
+	},
+	{
+		"Name": "",
+		"Price": "",
+		"Image": ""
+	}
+]

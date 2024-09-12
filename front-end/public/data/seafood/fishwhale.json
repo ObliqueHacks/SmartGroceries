@@ -1,0 +1,52 @@
+﻿[
+	{
+		"Name": "Rainbow Trout, Farm-Raised Butterflied",
+		"Price": "14.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/seafood_1/fwhl_trt_bnd_z.jpg"
+	},
+	{
+		"Name": "Jumbo Branzino",
+		"Price": "approx. 2-3lb",
+		"Image": "https://www.freshdirect.com/media/images/product/seafood_1/sea_pid_3604171_z.jpg"
+	},
+	{
+		"Name": "Mediterranean Stuffed Branzino",
+		"Price": "12.49/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/seafood_1/sea_pid_3604181_z.jpg"
+	},
+	{
+		"Name": "Royal Dorade, Farm-Raised",
+		"Price": "9.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/seafood_1/sea_pid_3600946_z.jpg"
+	},
+	{
+		"Name": "Stock and Soup Bones",
+		"Price": "1.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/seafood_1/ffss_fshbns_hds_z.jpg"
+	},
+	{
+		"Name": "Local Whole Wild Black Sea Bass",
+		"Price": "approx. 3lb",
+		"Image": "https://www.freshdirect.com/media/images/product/seafood_1/fwhl_gsmans_blkbass_z.jpg"
+	},
+	{
+		"Name": "Wild Fresh Smelt",
+		"Price": "9.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/seafood_1/sea_pid_3604018_z.jpg"
+	},
+	{
+		"Name": "Whole Dover Sole, Farm-Raised",
+		"Price": "21.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/seafood_1/sea_pid_3600991_z.jpg"
+	},
+	{
+		"Name": "Mediterranean Stuffed Branzino, Family Size",
+		"Price": "11.66/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/seafood_1/sea_pid_3604199_z.jpg"
+	},
+	{
+		"Name": "LocalCohoNY Farm-Raised Coho Salmon, Whole",
+		"Price": "approx. 2.5lb",
+		"Image": "https://www.freshdirect.com/media/images/product/seafood_1/sea_pid_3604209_z.jpg"
+	}
+]

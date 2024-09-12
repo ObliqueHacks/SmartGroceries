@@ -50,6 +50,7 @@ module.exports = {
       backgroundImage: {
         "landing-photo": "url(/assets/landingpic-removebg.png)",
         "sale-photo-1": "url(/assets/sale1.jpg)",
+        "nutrient-profile-bg": "url(/assets/vegetablesprofile.jpg)",
       },
 
       boxShadow: {

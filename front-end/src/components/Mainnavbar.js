@@ -15,7 +15,17 @@ import {
   navigationMenuTriggerStyle,
 } from "@/components/ui/navigation-menu";
 
+import {
+  Sheet,
+  SheetContent,
+  SheetDescription,
+  SheetHeader,
+  SheetTitle,
+  SheetTrigger,
+} from "@/components/ui/sheet";
+
 import React from "react";
+import { GiShoppingBag } from "react-icons/gi";
 
 export default function Mainnavbar() {
   const [menu, updateMenu] = useState(true);
@@ -38,32 +48,33 @@ export default function Mainnavbar() {
       </div>
       <div className="hidden md:flex flex-grow justify-center space-x-4">
         <NavigationMenuItem>
-          <Link href="/">
-            <NavigationMenuLink className={navigationMenuTriggerStyle()}>
-              Home
-            </NavigationMenuLink>
-          </Link>
+          <NavigationMenuLink href="/" className={navigationMenuTriggerStyle()}>
+            Home
+          </NavigationMenuLink>
         </NavigationMenuItem>
         <NavigationMenuItem>
-          <Link href="/about">
-            <NavigationMenuLink className={navigationMenuTriggerStyle()}>
-              About
-            </NavigationMenuLink>
-          </Link>
+          <NavigationMenuLink
+            href="/about"
+            className={navigationMenuTriggerStyle()}
+          >
+            About
+          </NavigationMenuLink>
         </NavigationMenuItem>
         <NavigationMenuItem>
-          <Link href="/">
-            <NavigationMenuLink className={navigationMenuTriggerStyle()}>
-              Shop
-            </NavigationMenuLink>
-          </Link>
+          <NavigationMenuLink
+            href="/shop"
+            className={navigationMenuTriggerStyle()}
+          >
+            Shop
+          </NavigationMenuLink>
         </NavigationMenuItem>
         <NavigationMenuItem>
-          <Link href="/">
-            <NavigationMenuLink className={navigationMenuTriggerStyle()}>
-              Contact
-            </NavigationMenuLink>
-          </Link>
+          <NavigationMenuLink
+            href="/contact"
+            className={navigationMenuTriggerStyle()}
+          >
+            Contact
+          </NavigationMenuLink>
         </NavigationMenuItem>
       </div>
       <div className="flex justify-center items-center space-x-2 ">
@@ -81,7 +92,7 @@ export default function Mainnavbar() {
             close ? "block" : "hidden"
           }`}
         ></IoMdClose>
-        <span className="mb-4">
+        <span className="mb-4 flex flex-row gap-4 items-center">
           <p className="font-normal pt-4 text-xs md:text-sm">
             <span className="text-slate-400">Account</span> <br></br>
             <a className="underline underline-offset-4 hover:text-third transition-colors duration-300 cursor-pointer">
@@ -92,6 +103,10 @@ export default function Mainnavbar() {
               Create Account
             </a>
           </p>
+          <GiShoppingBag
+            size={25}
+            className="hover:text-third hover:translate-y-[-2px] transition-all ease-in duration-200 cursor-pointer"
+          ></GiShoppingBag>
         </span>
       </div>
     </NavigationMenu>

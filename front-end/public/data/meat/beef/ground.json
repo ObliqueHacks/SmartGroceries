@@ -1,0 +1,22 @@
+﻿[
+	{
+		"Name": "Pat LaFriedaOriginal Ground Beef Blend",
+		"Price": "10.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_2/bgrnd_plaf_orgnl_z.jpg"
+	},
+	{
+		"Name": "Pat LaFriedaShort Rib Ground Beef Blend",
+		"Price": "10.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_2/bgrnd_plaf_shrtrb_z.jpg"
+	},
+	{
+		"Name": "Kosher Ground Beef",
+		"Price": "12.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/mea_pid_3335234_z.jpg"
+	},
+	{
+		"Name": "Organic 85% Lean Ground Beef",
+		"Price": "12.99/lb",
+		"Image": "https://www.freshdirect.com/media/images/product/meat_3/bgrnd_plaf_orggrnd_z.jpg"
+	}
+]
