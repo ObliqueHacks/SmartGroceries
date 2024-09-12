@@ -1,3 +1,5 @@
+package com.example.demo.registrationAndLogin;
+
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
