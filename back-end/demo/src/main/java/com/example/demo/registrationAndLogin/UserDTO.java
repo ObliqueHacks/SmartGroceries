@@ -1,4 +1,5 @@
-import jakarta.validation.constraints.Email;
+package com.example.demo.registrationAndLogin;
+
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Size;
 
@@ -25,4 +26,16 @@ public class UserDTO {
     }
 
     // Getters and Setters
+
+    public String getUsername() {
+        return username;
+    }
+
+    public String getPassword() {
+        return password;
+    }
+
+    public String getName() {
+        return name;
+    }
 }

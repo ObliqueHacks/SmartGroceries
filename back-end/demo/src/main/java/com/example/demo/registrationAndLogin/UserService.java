@@ -1,3 +1,5 @@
+package com.example.demo.registrationAndLogin;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
@@ -23,7 +25,7 @@ public class UserService {
         String encodedPassword = passwordEncoder.encode(userDTO.getPassword());
 
         // Create a new User object and save it
-        User newUser = new User(userDTO.getUsername(), encodedPassword, userDTO.getEmail());
+        User newUser = new User(userDTO.getUsername(), encodedPassword, userDTO.getName());
         return userRepository.save(newUser);
     }
 }
