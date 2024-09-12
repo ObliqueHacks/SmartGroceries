@@ -1,9 +1,10 @@
 "use client";
 
+import React from "react";
 import { useState } from "react";
 import { IoIosMenu } from "react-icons/io";
 import { IoMdClose } from "react-icons/io";
-import { FaLinkedin } from "react-icons/fa6";
+import { Button } from "@/components/ui/button";
 import Link from "next/link";
 import {
   NavigationMenu,
@@ -19,15 +20,23 @@ import {
   Sheet,
   SheetContent,
   SheetDescription,
+  SheetFooter,
   SheetHeader,
   SheetTitle,
   SheetTrigger,
 } from "@/components/ui/sheet";
 
-import React from "react";
+import { useCart } from "@/hooks/useCart";
+
 import { GiShoppingBag } from "react-icons/gi";
 
+import { Separator } from "@/components/ui/separator";
+import CartItem from "./CartItem";
+
 export default function Mainnavbar() {
+  const { items, removeItem, clearCart, totalAmount } = useCart();
+  console.log(items);
+
   const [menu, updateMenu] = useState(true);
   const [close, updateClose] = useState(false);
 
@@ -103,10 +112,61 @@ export default function Mainnavbar() {
               Create Account
             </a>
           </p>
-          <GiShoppingBag
-            size={25}
-            className="hover:text-third hover:translate-y-[-2px] transition-all ease-in duration-200 cursor-pointer"
-          ></GiShoppingBag>
+          <Sheet>
+            <SheetTrigger asChild>
+              <GiShoppingBag
+                size={25}
+                className="hover:text-third hover:translate-y-[-2px] transition-all ease-in duration-200 cursor-pointer"
+              ></GiShoppingBag>
+            </SheetTrigger>
+            <SheetContent>
+              <SheetHeader>
+                <SheetTitle className="text-3xl">Your Bag</SheetTitle>
+              </SheetHeader>
+              {items && items.length > 0 ? (
+                <div className="overflow-y-auto max-h-[500px] w-[107%]">
+                  <div className="grid grid-cols-[100px_auto] pt-10 items-center gap-y-10 pr-4">
+                    {items.map((item) => (
+                      <CartItem item={item} />
+                    ))}
+                  </div>
+                  <Separator className="mt-10 mb-4 w-[95%]"></Separator>
+                  <div className="grid grid-cols-[auto_80px] w-[95%]">
+                    <div className="flex flex-col">
+                      <p className="text-xs text-slate-400 underline hover:text-third transition-colors ease-in duration-100 cursor-pointer">
+                        Estimated Prices, Taxes, Deposits, and fees
+                      </p>
+                      <br />
+                      <p className="text-xs text-slate-400 underline hover:text-third transition-colors ease-in duration-100 cursor-pointer"></p>
+                    </div>
+                    <p className="text-sm hover:text-third transition-colors ease-in duration-100 cursor-pointer">
+                      Empty Bag
+                    </p>
+                  </div>
+                </div>
+              ) : (
+                <div className="w-full h-full flex flex-col items-center justify-center gap-4">
+                  <p className="text-4xl font-semibold">Your bag is empty</p>
+                  <p className="text-sm font-semibold">
+                    Let's find something for you to enjoy
+                  </p>
+                </div>
+              )}
+              {items && (
+                <SheetFooter>
+                  <div className="w-full flex flex-col items-center mt-4 gap-4">
+                    <p className=" text-slate-400 text-sm">
+                      Subtotal (before tax){" "}
+                      <span className="font-bold text-black text-lg">
+                        ${totalAmount}
+                      </span>
+                    </p>
+                    <Button className="w-[95%] bg-primary">Check Out</Button>
+                  </div>
+                </SheetFooter>
+              )}
+            </SheetContent>
+          </Sheet>
         </span>
       </div>
     </NavigationMenu>
