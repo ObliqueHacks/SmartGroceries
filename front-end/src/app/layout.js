@@ -1,5 +1,6 @@
 import { Poppins } from "next/font/google";
 import { Toaster } from "@/components/ui/toaster";
+import Mainnavbar from "@/components/Mainnavbar";
 import "./globals.css";
 
 const poppins = Poppins({
@@ -16,6 +17,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={poppins.className}>
+        <Mainnavbar></Mainnavbar>
         {children}
         <Toaster />
       </body>

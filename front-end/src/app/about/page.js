@@ -6,7 +6,6 @@ import { FaArrowRightLong } from "react-icons/fa6";
 export default function Page() {
   return (
     <div className="flex bg-background-500 flex-col">
-      <Mainnavbar></Mainnavbar>
       {/* Services Section  */}
       <div className="flex flex-col text-3xl items-center pt-10 pb-16 w-full gap-2">
         <p className="text-lg text-primary">Our Services</p>

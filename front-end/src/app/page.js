@@ -25,12 +25,8 @@ import Footer from "@/components/Footer";
 export default async function Home() {
   // Fetch the data
 
-  
-
   return (
     <main className="flex min-h-screen bg-background-500 flex-col">
-      <Mainnavbar className="w-full"></Mainnavbar>
-
       {/* Intro Section */}
       <div className="flex flex-col md:flex-row w-full">
         <div className="flex flex-col gap-4 items-center text-center md:items-start md:text-start pt-10 w-full md:w-[50%] pl-0 md:pl-20">

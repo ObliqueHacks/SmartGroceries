@@ -29,31 +29,29 @@ export default function CategoriesBar() {
           </NavigationMenuTrigger>
           <NavigationMenuContent>
             <ul className="grid grid-cols-3 w-[800px] gap-4 p-6 gap-x-16 ">
-              <li className="">
-                <NavigationMenuLink href="/shop/fruit/apple">
-                  Apples
-                </NavigationMenuLink>
+              <li className="hover:underline">
+                <Link href="/shop/fruit/apples">Apples</Link>
               </li>
-              <li className="">
-                <NavigationMenuLink>Avacadoes</NavigationMenuLink>
+              <li className="hover:underline ">
+                <Link href="/shop/fruit/avacadoes">Avacadoes</Link>
               </li>
-              <li className="">
-                <NavigationMenuLink>Bananas</NavigationMenuLink>
+              <li className="hover:underline ">
+                <Link href="/shop/fruit/bananas">Bananas</Link>
               </li>
-              <li className="">
-                <NavigationMenuLink>Berries</NavigationMenuLink>
+              <li className="hover:underline ">
+                <Link href="/shop/fruit/berries">Berries</Link>
               </li>
-              <li className="">
-                <NavigationMenuLink>Citrus</NavigationMenuLink>
+              <li className="hover:underline ">
+                <Link href="/shop/fruit/citrus">Citrus</Link>
               </li>
-              <li className="">
-                <NavigationMenuLink>Grapes</NavigationMenuLink>
+              <li className="hover:underline ">
+                <Link href="/shop/fruit/grapes">Grapes</Link>
               </li>
-              <li className="">
-                <NavigationMenuLink>Melons</NavigationMenuLink>
+              <li className="hover:underline ">
+                <Link href="/shop/fruit/melons">Melons</Link>
               </li>
-              <li className="">
-                <NavigationMenuLink>Pears</NavigationMenuLink>
+              <li className="hover:underline ">
+                <Link href="/shop/fruit/pears">Pears</Link>
               </li>
             </ul>
           </NavigationMenuContent>
@@ -67,32 +65,36 @@ export default function CategoriesBar() {
           </NavigationMenuTrigger>
           <NavigationMenuContent>
             <ul className="grid grid-cols-3 w-[800px] gap-4 p-6 gap-x-16 text-sm">
-              <li className="">
-                <NavigationMenuLink>Asparagus</NavigationMenuLink>
+              <li className="hover:underline">
+                <Link href="/shop/vegetables/asparagus">Asparagus</Link>
               </li>
-              <li className="">
-                <NavigationMenuLink>Beans & Peas</NavigationMenuLink>
+              <li className="hover:underline">
+                <Link href="/shop/vegetables/beans&peas">Beans & Peas</Link>
               </li>
-              <li className="">
-                <NavigationMenuLink>Brussels & Cabbage</NavigationMenuLink>
+              <li className="hover:underline">
+                <Link href="/shop/vegetables/brussels&cabbage">
+                  Brussels & Cabbage
+                </Link>
               </li>
-              <li className="">
-                <NavigationMenuLink>Carrots</NavigationMenuLink>
+              <li className="hover:underline">
+                <Link href="/shop/vegetables/carrots">Carrots</Link>
               </li>
-              <li className="">
-                <NavigationMenuLink>Cauliflower</NavigationMenuLink>
+              <li className="hover:underline">
+                <Link href="/shop/vegetables/cauliflower&broc">
+                  Cauliflower
+                </Link>
               </li>
-              <li className="">
-                <NavigationMenuLink>Celery</NavigationMenuLink>
+              <li className="hover:underline">
+                <Link href="/shop/vegetables/celery">Celery</Link>
               </li>
-              <li className="">
-                <NavigationMenuLink>Corn</NavigationMenuLink>
+              <li className="hover:underline">
+                <Link href="/shop/vegetables/corn">Corn</Link>
               </li>
-              <li className="">
-                <NavigationMenuLink>Cucumber</NavigationMenuLink>
+              <li className="hover:underline">
+                <Link href="/shop/vegetables/cucumber">Cucumber</Link>
               </li>
-              <li className="">
-                <NavigationMenuLink>Eggplant</NavigationMenuLink>
+              <li className="hover:underline">
+                <Link href="/shop/vegetables/eggplant">Eggplant</Link>
               </li>
             </ul>
           </NavigationMenuContent>
@@ -106,23 +108,23 @@ export default function CategoriesBar() {
           </NavigationMenuTrigger>
           <NavigationMenuContent>
             <ul className="grid grid-cols-3 w-[800px] gap-4 p-6 gap-x-16 text-sm">
-              <li className="">
-                <NavigationMenuLink>Beef</NavigationMenuLink>
+              <li className="hover:underline">
+                <Link href="">Beef</Link>
+              </li>
+              <li className="hover:underline">
+                <Link href="">Lamb</Link>
               </li>
               <li className="">
-                <NavigationMenuLink>Lamb</NavigationMenuLink>
+                <Link href="">Meat Alternatives</Link>
               </li>
               <li className="">
-                <NavigationMenuLink>Meat Alternatives</NavigationMenuLink>
+                <Link href="">Pork</Link>
               </li>
               <li className="">
-                <NavigationMenuLink>Pork</NavigationMenuLink>
+                <Link href="">Poultry</Link>
               </li>
               <li className="">
-                <NavigationMenuLink>Poultry</NavigationMenuLink>
-              </li>
-              <li className="">
-                <NavigationMenuLink>Veal</NavigationMenuLink>
+                <Link href="">Veal</Link>
               </li>
             </ul>
           </NavigationMenuContent>
@@ -137,28 +139,28 @@ export default function CategoriesBar() {
           <NavigationMenuContent>
             <ul className="grid grid-cols-3 w-[800px] gap-4 p-6 gap-x-16 text-sm">
               <li className="">
-                <NavigationMenuLink>Crabs</NavigationMenuLink>
+                <Link href="/shop/seafood/crabs">Crabs</Link>
               </li>
               <li className="">
-                <NavigationMenuLink>Fish Fillets</NavigationMenuLink>
+                <Link href="/shop/seafood/fishfillets">Fish Fillets</Link>
               </li>
               <li className="">
-                <NavigationMenuLink>Fish Whole</NavigationMenuLink>
+                <Link href="/shop/seafood/fishwhole">Fish Whole</Link>
               </li>
               <li className="">
-                <NavigationMenuLink>Mussels & Clams</NavigationMenuLink>
+                <Link href="/shop/seafood/mussels&clams">Mussels & Clams</Link>
               </li>
               <li className="">
-                <NavigationMenuLink>Oysters</NavigationMenuLink>
+                <Link href="/shop/seafood/oysters">Oysters</Link>
               </li>
               <li className="">
-                <NavigationMenuLink>Salmon</NavigationMenuLink>
+                <Link href="/shop/seafood/salmon">Salmon</Link>
               </li>
               <li className="">
-                <NavigationMenuLink>Shrimp</NavigationMenuLink>
+                <Link href="/shop/seafood/shrimp">Shrimp</Link>
               </li>
               <li className="">
-                <NavigationMenuLink>Speciality</NavigationMenuLink>
+                <Link href="/shop/seafood/speciality">Speciality</Link>
               </li>
             </ul>
           </NavigationMenuContent>
@@ -173,34 +175,34 @@ export default function CategoriesBar() {
           <NavigationMenuContent>
             <ul className="grid grid-cols-3 w-[800px] gap-4 p-6 gap-x-16 text-sm">
               <li className="">
-                <NavigationMenuLink>Butter</NavigationMenuLink>
+                <Link href="">Butter</Link>
               </li>
               <li className="">
-                <NavigationMenuLink>Cheese</NavigationMenuLink>
+                <Link href="">Cheese</Link>
               </li>
               <li className="">
-                <NavigationMenuLink>Condiments</NavigationMenuLink>
+                <Link href="">Condiments</Link>
               </li>
               <li className="">
-                <NavigationMenuLink>Eggs</NavigationMenuLink>
+                <Link href="">Eggs</Link>
               </li>
               <li className="">
-                <NavigationMenuLink>Hummus</NavigationMenuLink>
+                <Link href="">Hummus</Link>
               </li>
               <li className="">
-                <NavigationMenuLink>Milk</NavigationMenuLink>
+                <Link href="">Milk</Link>
               </li>
               <li className="">
-                <NavigationMenuLink>Pasta</NavigationMenuLink>
+                <Link href="">Pasta</Link>
               </li>
               <li className="">
-                <NavigationMenuLink>Pudding</NavigationMenuLink>
+                <Link href="">Pudding</Link>
               </li>
               <li className="">
-                <NavigationMenuLink>Sour Cream</NavigationMenuLink>
+                <Link href="">Sour Cream</Link>
               </li>
               <li className="">
-                <NavigationMenuLink>Yogurt</NavigationMenuLink>
+                <Link href="">Yogurt</Link>
               </li>
             </ul>
           </NavigationMenuContent>
@@ -215,22 +217,22 @@ export default function CategoriesBar() {
           <NavigationMenuContent>
             <ul className="grid grid-cols-3 w-[800px] gap-4 p-6 gap-x-16 text-sm">
               <li className="">
-                <NavigationMenuLink>Baguttes</NavigationMenuLink>
+                <Link href="">Baguttes</Link>
               </li>
               <li className="">
-                <NavigationMenuLink>Buns</NavigationMenuLink>
+                <Link href="">Buns</Link>
               </li>
               <li className="">
-                <NavigationMenuLink>Broiche & Challah</NavigationMenuLink>
+                <Link href="">Broiche & Challah</Link>
               </li>
               <li className="">
-                <NavigationMenuLink>Flat Bread</NavigationMenuLink>
+                <Link href="">Flat Bread</Link>
               </li>
               <li className="">
-                <NavigationMenuLink>Muffins</NavigationMenuLink>
+                <Link href="">Muffins</Link>
               </li>
               <li className="">
-                <NavigationMenuLink>Waffles</NavigationMenuLink>
+                <Link href="">Waffles</Link>
               </li>
             </ul>
           </NavigationMenuContent>

@@ -36,7 +36,6 @@ import { Badge } from "./ui/badge";
 
 export default function Mainnavbar() {
   const { items, clearCart, totalAmount } = useCart();
-  console.log(items);
 
   const [menu, updateMenu] = useState(true);
   const [close, updateClose] = useState(false);
