@@ -32,9 +32,10 @@ import { GiShoppingBag } from "react-icons/gi";
 
 import { Separator } from "@/components/ui/separator";
 import CartItem from "./CartItem";
+import { Badge } from "./ui/badge";
 
 export default function Mainnavbar() {
-  const { items, removeItem, clearCart, totalAmount } = useCart();
+  const { items, clearCart, totalAmount } = useCart();
   console.log(items);
 
   const [menu, updateMenu] = useState(true);
@@ -114,10 +115,18 @@ export default function Mainnavbar() {
           </p>
           <Sheet>
             <SheetTrigger asChild>
-              <GiShoppingBag
-                size={25}
-                className="hover:text-third hover:translate-y-[-2px] transition-all ease-in duration-200 cursor-pointer"
-              ></GiShoppingBag>
+              <div className="relative">
+                <Badge
+                  size={5}
+                  className="w-[10px] scale-[75%] text-[13px] bg-third flex items-center justify-center absolute bottom-0 left-0 transform -translate-x-[25%] translate-y-[55%] hover:bg-third"
+                >
+                  {items.length}
+                </Badge>
+                <GiShoppingBag
+                  size={25}
+                  className="hover:text-third transition-all ease-in duration-200 cursor-pointer"
+                />
+              </div>
             </SheetTrigger>
             <SheetContent>
               <SheetHeader>
@@ -139,7 +148,10 @@ export default function Mainnavbar() {
                       <br />
                       <p className="text-xs text-slate-400 underline hover:text-third transition-colors ease-in duration-100 cursor-pointer"></p>
                     </div>
-                    <p className="text-sm hover:text-third transition-colors ease-in duration-100 cursor-pointer">
+                    <p
+                      className="text-sm hover:text-third transition-colors ease-in duration-100 cursor-pointer"
+                      onClick={() => clearCart()}
+                    >
                       Empty Bag
                     </p>
                   </div>

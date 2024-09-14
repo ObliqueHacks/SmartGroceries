@@ -6,9 +6,14 @@ import { Separator } from "@/components/ui/separator";
 import { useCart } from "@/hooks/useCart";
 import { useToast } from "@/hooks/use-toast";
 
+import { useEffect } from "react";
+
+// Inside your component
+
 const ProductCard = ({ item, index, columns }) => {
-  const { items, addItem } = useCart();
+  const { items, addItem, frequencyMap } = useCart();
   const { toast } = useToast();
+
   return (
     <div className="relative w-[230px] h-[270px] flex flex-col items-center hover:underline underline-offset-4 p-2">
       <img src={item.Image} className="w-[170px] h-[150px]" alt={item.Name} />
@@ -20,6 +25,7 @@ const ProductCard = ({ item, index, columns }) => {
             addItem(item);
             toast({ title: "Added to cart" });
             console.log("added item");
+            console.log(frequencyMap);
           }}
           className="w-[25px] h-[25px] text-third hover:text-background-100 bg-background-100 border-third border-2 rounded-full cursor-pointer hover:bg-third transition-colors ease-in duration-100 flex items-center justify-center"
         >
