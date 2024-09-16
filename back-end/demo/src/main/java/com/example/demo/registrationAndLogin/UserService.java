@@ -6,9 +6,7 @@ import jakarta.validation.constraints.Null;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
-import io.jsonwebtoken.Jwts;
-import io.jsonwebtoken.SignatureAlgorithm;
-import java.util.Date;
+
 
 
 @Service
@@ -21,12 +19,6 @@ public class UserService {
     private JwtUtil tokenHandler = new JwtUtil();
 
     public User registerUser(UserDTO userDTO) throws Exception {
-
-        if (userDTO.getName() == null || userDTO.getName().trim().isEmpty()) {
-            throw new Exception("Provide a Name");
-        }
-
-
         // Check if the username or email already exists
 
         Optional<User> existingUserByUsername = userRepository.findByUsername(userDTO.getUsername());
