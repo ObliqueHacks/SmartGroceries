@@ -8,14 +8,12 @@ public class UserDTO {
     @Size(min = 3, max = 20)
     private String username;
 
-    @NotBlank
-    @Size(min = 3, max = 20)
+    @Size(min = 3, max = 20) // Remove @NotBlank to allow blank for name
     private String name;
 
     @NotBlank
-    @Size(min = 6)
+    @Size(min = 6, max = 100)
     private String password;
-
 
     public UserDTO() {}
 
@@ -26,16 +24,27 @@ public class UserDTO {
     }
 
     // Getters and Setters
-
     public String getUsername() {
         return username;
+    }
+
+    public void setUsername(String username) {
+        this.username = username;
     }
 
     public String getPassword() {
         return password;
     }
 
+    public void setPassword(String password) {
+        this.password = password;
+    }
+
     public String getName() {
         return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
     }
 }

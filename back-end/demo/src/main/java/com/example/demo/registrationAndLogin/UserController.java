@@ -22,5 +22,24 @@ public class UserController {
             return new ResponseEntity<>(e.getMessage(), HttpStatus.BAD_REQUEST);
         }
     }
+
+    @PostMapping("login")
+    public ResponseEntity<?> loginUser(@Validated @RequestBody UserDTO userDTO) {
+        try {
+            // Call service method for user authentication
+            String authenticated = userService.loginUser(userDTO);
+
+            if (authenticated!="") {
+                return new ResponseEntity<>("Login successful", HttpStatus.OK);
+            } else {
+                return new ResponseEntity<>("Invalid username or password", HttpStatus.UNAUTHORIZED);
+            }
+        } catch (Exception e) {
+            return new ResponseEntity<>(e.getMessage(), HttpStatus.BAD_REQUEST);
+        }
+    }
+
+
+
 }
 
