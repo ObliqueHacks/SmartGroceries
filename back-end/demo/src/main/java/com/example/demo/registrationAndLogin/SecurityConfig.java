@@ -18,8 +18,7 @@ public class SecurityConfig {
                 .authorizeHttpRequests(auth -> auth
                         .requestMatchers("/api/auth/**").permitAll()  // Allow unauthenticated access to login/register endpoints
                         .anyRequest().authenticated()  // Protect all other endpoints
-                )
-                .formLogin();  // Enable form login
+                );
         return http.build();
     }
 
