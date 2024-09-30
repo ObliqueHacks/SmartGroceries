@@ -1,52 +1,52 @@
 ﻿[
-	{
-		"Name": "Sea Beans",
-		"Price": "5.99/ea",
-		"Image": "https://www.freshdirect.com/media/images/product/veg_1/veg_pid_2301504_z.jpg"
-	},
-	{
-		"Name": "Sugar Snap Peas",
-		"Price": "6.99/ea",
-		"Image": "https://www.freshdirect.com/media/images/product/veg_3/veg_pid_2302277_z.jpg"
-	},
-	{
-		"Name": "Green Beans",
-		"Price": "2.99/ea",
-		"Image": "https://www.freshdirect.com/media/images/product/veg_3/veg_bns_grnlb_z.jpg"
-	},
-	{
-		"Name": "Lancaster Farm Fresh Cooperative",
-		"Price": "4.99/ea",
-		"Image": "https://www.freshdirect.com/media/images/product/veg_3/veg_pid_2302304_z.jpg"
-	},
-	{
-		"Name": "Snipped Green Beans in Microwavable Bag",
-		"Price": "3.49/ea",
-		"Image": "https://www.freshdirect.com/media/images/product/veg_2/bns_green_r2e_z.jpg"
-	},
-	{
-		"Name": "Trimmed French Beans",
-		"Price": "3.99/ea",
-		"Image": "https://www.freshdirect.com/media/images/product/veg_1/veg_pid_2301593_z.jpg"
-	},
-	{
-		"Name": "Washed Snow Peas",
-		"Price": "5.99/ea",
-		"Image": "https://www.freshdirect.com/media/images/product/veg_1/veg_pid_2301592_z.jpg"
-	},
-	{
-		"Name": "Washed Sugar Snap Peas",
-		"Price": "5.99/ea",
-		"Image": "https://www.freshdirect.com/media/images/product/veg_1/veg_pid_2301591_z.jpg"
-	},
-	{
-		"Name": "Chinese Long Beans",
-		"Price": "6.99/ea",
-		"Image": "https://www.freshdirect.com/media/images/product/veg_2/veg_pid_2302477_z.jpg"
-	},
-	{
-		"Name": "",
-		"Price": "",
-		"Image": ""
-	}
+  {
+    "Name": "Sea Beans",
+    "Price": "5.99/ea",
+    "Image": "https://www.freshdirect.com/media/images/product/veg_1/veg_pid_2301504_z.jpg"
+  },
+  {
+    "Name": "Sugar Snap Peas",
+    "Price": "6.99/ea",
+    "Image": "https://www.freshdirect.com/media/images/product/veg_3/veg_pid_2302277_z.jpg"
+  },
+  {
+    "Name": "Green Beans",
+    "Price": "2.99/ea",
+    "Image": "https://www.freshdirect.com/media/images/product/veg_3/veg_bns_grnlb_z.jpg"
+  },
+  {
+    "Name": "Lancaster Farm Fresh Cooperative",
+    "Price": "4.99/ea",
+    "Image": "https://www.freshdirect.com/media/images/product/veg_3/veg_pid_2302304_z.jpg"
+  },
+  {
+    "Name": "Snipped Green Beans in Microwavable Bag",
+    "Price": "3.49/ea",
+    "Image": "https://www.freshdirect.com/media/images/product/veg_2/bns_green_r2e_z.jpg"
+  },
+  {
+    "Name": "Trimmed French Beans",
+    "Price": "3.99/ea",
+    "Image": "https://www.freshdirect.com/media/images/product/veg_1/veg_pid_2301593_z.jpg"
+  },
+  {
+    "Name": "Washed Snow Peas",
+    "Price": "5.99/ea",
+    "Image": "https://www.freshdirect.com/media/images/product/veg_1/veg_pid_2301592_z.jpg"
+  },
+  {
+    "Name": "Washed Sugar Snap Peas",
+    "Price": "5.99/ea",
+    "Image": "https://www.freshdirect.com/media/images/product/veg_1/veg_pid_2301591_z.jpg"
+  },
+  {
+    "Name": "Chinese Long Beans",
+    "Price": "6.99/ea",
+    "Image": "https://www.freshdirect.com/media/images/product/veg_2/veg_pid_2302477_z.jpg"
+  },
+  {
+    "Name": "",
+    "Price": "",
+    "Image": ""
+  }
 ]

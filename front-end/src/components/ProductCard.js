@@ -10,7 +10,7 @@ import { useEffect } from "react";
 
 // Inside your component
 
-const ProductCard = ({ item, index, columns }) => {
+const ProductCard = ({ item, index }) => {
   const { items, addItem, frequencyMap } = useCart();
   const { toast } = useToast();
 
@@ -33,12 +33,12 @@ const ProductCard = ({ item, index, columns }) => {
         </div>
       </span>
       {/* Display the separator only if the current item is not the last item in its row */}
-      {(index + 1) % columns !== 0 && (
+      {/* {(index + 1) % 6 !== 0 && (
         <Separator
           className="absolute left-[calc(100%)] mx-auto p-[1px]"
           orientation="vertical"
         />
-      )}
+      )} */}
     </div>
   );
 };
