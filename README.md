@@ -19,4 +19,4 @@ Nature Crunch is a **full-stack** application built using the following technolo
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgresSQL"/>
 </div>
 
-**NOTE** : Only the front-end component of the applicaiton has been complete. Back-end functionality will be added soon.
+**NOTE** : Only the front-end component of the application has been complete. Back-end functionality will be added soon.
