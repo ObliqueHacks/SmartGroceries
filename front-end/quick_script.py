@@ -1,8 +1,8 @@
 import os
 
 # Directories for JSON files and the app folder
-json_folder = 'C:/Users/akash/Documents/School/McMaster/Third Year/Side Projects/GroceryDelivery/SmartGroceries/front-end/public/data/seafood'
-app_folder = 'C:/Users/akash/Documents/School/McMaster/Third Year/Side Projects/GroceryDelivery/SmartGroceries/front-end/src/app/shop/seafood'
+json_folder = 'C:/Users/akash/Documents/School/McMaster/Third Year/Side Projects/GroceryDelivery/SmartGroceries/front-end/public/data/diary/butter'
+app_folder = 'C:/Users/akash/Documents/School/McMaster/Third Year/Side Projects/GroceryDelivery/SmartGroceries/front-end/src/app/shop/diary/butter'
 
 # Create folders and generate page.js for each JSON file
 for filename in os.listdir(json_folder):
@@ -21,7 +21,7 @@ import React from "react";
 import ProductCard from "@/components/ProductCard";
 
 export default async function Page() {{
-  const res = await fetch("http://localhost:3000/data/seafood/{filename}");
+  const res = await fetch("http://localhost:3000/data/diary/butter/{filename}");
   const data = await res.json();
   const columns = 6;
   return (

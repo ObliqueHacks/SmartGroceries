@@ -15,7 +15,7 @@ const ProductCard = ({ item, index }) => {
   const { toast } = useToast();
 
   return (
-    <div className="relative w-[230px] h-[270px] flex flex-col items-center hover:underline underline-offset-4 p-2">
+    <div className="relative w-[230px] h-[270px] flex flex-col items-center hover:underline underline-offset-4 p-2 cursor-pointer">
       <img src={item.Image} className="w-[170px] h-[150px]" alt={item.Name} />
       <p className="pt-2 max-w-[170px] truncate  ">{item.Name}</p>
       <span className="flex flex-row justify-between mx-auto w-[92%] mt-auto font-medium">
