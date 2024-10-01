@@ -122,7 +122,7 @@ export default async function Page() {
           </Carousel>
         </section>
 
-        <section className="grid grid-cols-[auto_600px] w-full pt-10">
+        <section className="grid grid-cols-[auto_900px] w-full pt-10">
           <div className="flex flex-col gap-2">
             <h1 className="font-semibold text-2xl">Popular right now</h1>
             <p className="text-sm text-slate-500">
@@ -153,7 +153,7 @@ export default async function Page() {
           </div>
         </section>
 
-        <section className="grid grid-cols-[auto_600px] w-full pt-10">
+        <section className="grid grid-cols-[auto_900px] w-full pt-10">
           <div className="flex flex-col gap-2">
             <h1 className="font-semibold text-2xl">The best local eats</h1>
             <p className="text-sm text-slate-500">
