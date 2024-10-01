@@ -5,7 +5,7 @@
 
   ![image](https://github.com/user-attachments/assets/9e7efffb-a6b9-4cf1-8947-09af3053fc85)
 
-The **Goal** of this project is to was to learn the entire process of designing and developing a clean, functional, and user-friendly UI for an e-commerce store. This involves not only creating an aesthetically pleasing and intuitive interface but also ensuring that the user experience is smooth and efficient.
+The **Goal** of this project was to learn the entire process of designing and developing a clean, functional, and user-friendly UI for an e-commerce store. This involves not only creating an aesthetically pleasing and intuitive interface but also ensuring that the user experience is smooth and efficient.
 
 ## ⚙️ Tech Stack
 Nature Crunch is a **full-stack** application built using the following technologies:
