@@ -1,7 +1,6 @@
-
 import React from "react";
 
-const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "";
+const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "http://localhost:3000";
 
 import ProductCard from "@/components/ProductCard";
 
