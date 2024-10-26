@@ -2,7 +2,6 @@ package com.example.demo.registrationAndLogin;
 
 import java.util.Optional;
 
-import jakarta.validation.constraints.Null;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
@@ -26,7 +25,6 @@ public class UserService {
         if (existingUserByUsername.isPresent()) {
             throw new Exception("Username already exists!");
         }
-
         String encodedPassword = passwordEncoder.encode(userDTO.getPassword());
 
         User newUser = new User(userDTO.getUsername(), encodedPassword, userDTO.getName());
@@ -42,7 +40,6 @@ public class UserService {
             return ""; // Return empty string if user is not found
         }
 
-
         // Cast Optional to User
         User user = optionalUser.get();
 
@@ -55,9 +52,6 @@ public class UserService {
             return "";
         }
         return tokenHandler.generateToken(user.getUsername());
-
-
-    }
-
+    } 
     
 }
