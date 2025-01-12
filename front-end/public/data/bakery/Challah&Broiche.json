@@ -1,0 +1,72 @@
+﻿[
+	{
+		"Name": "Stern'sPremium Egg Challah",
+		"Price": "6.49/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/grocery_58/gro_strns_eggchlh_z.jpg"
+	},
+	{
+		"Name": "Brooklyn MillsBrioche Loaf",
+		"Price": "8.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/bakery_1/bak_pid_4651290_z.jpg"
+	},
+	{
+		"Name": "Stern'sPremium Twist Egg Challah Rolls",
+		"Price": "6.49/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/grocery_51/gro_strns_eggrll_z.jpg"
+	},
+	{
+		"Name": "Brooklyn MillsArtisan Mini Brioche Buns",
+		"Price": "5.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/bakery_2/bak_pid_4651428_z.jpg"
+	},
+	{
+		"Name": "Just FreshDirectFresh Challah Rolls",
+		"Price": "5.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/bakery_1/bak_pid_4651205_z.jpg"
+	},
+	{
+		"Name": "Brooklyn MillsArtisan Brioche Hot Dog Buns",
+		"Price": "6.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/bakery_2/bak_pid_4651429_z.jpg"
+	},
+	{
+		"Name": "Jack BakesHand-Braided Challah Bread, Frozen",
+		"Price": "6.99\r\nSave 32%",
+		"Image": "https://www.freshdirect.com/media/images/product/bakery_1/bak_pid_4651196_z.jpg"
+	},
+	{
+		"Name": "FreshDirect FrozenSmall Round Challah",
+		"Price": "5.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/bakery_1/chal_rnd_z.jpg"
+	},
+	{
+		"Name": "The Bread Gal BakeryFrench Toast Bread, White Chocolate",
+		"Price": "7.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/pastry_2/pas_pid_4550828_z.jpg"
+	},
+	{
+		"Name": "Stern'sPremium Whole Wheat Egg Challah",
+		"Price": "6.49/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/bakery_2/bak_pid_4651425_z.jpg"
+	},
+	{
+		"Name": "Yoni's Pretzel ChallahOlive & Zaatar, Frozen",
+		"Price": "8.99\r\nSave 11%",
+		"Image": "https://www.freshdirect.com/media/images/product/bakery_3/bak_pid_4651609_z.jpg"
+	},
+	{
+		"Name": "Yoni's Pretzel ChallahRolls, Traditional, Frozen",
+		"Price": "8.99\r\nSave 11%",
+		"Image": "https://www.freshdirect.com/media/images/product/bakery_3/bak_pid_4651610_z.jpg"
+	},
+	{
+		"Name": "Yoni's Pretzel ChallahTraditional, Frozen",
+		"Price": "7.99\r\nSave 12%",
+		"Image": "https://www.freshdirect.com/media/images/product/bakery_3/bak_pid_4651608_z.jpg"
+	},
+	{
+		"Name": "Yoni's Pretzel ChallahRolls, Everything, Frozen",
+		"Price": "8.99\r\nSave 11%",
+		"Image": "https://www.freshdirect.com/media/images/product/bakery_3/bak_pid_4651611_z.jpg"
+	}
+]

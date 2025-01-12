@@ -1,0 +1,37 @@
+[
+  {
+    "Name": "JacquetFrench Crêpes, Chocolate Hazelnut",
+    "Price": "4.99/ea",
+    "Image": "https://www.freshdirect.com/media/images/product/pastry_2/pas_pid_4550063_z.jpg"
+  },
+  {
+    "Name": "JacquetBelgian Waffle, Original",
+    "Price": "2.29/ea",
+    "Image": "https://www.freshdirect.com/media/images/product/bakery_1/bak_pid_4651062_z.jpg"
+  },
+  {
+    "Name": "JacquetPetite Waffles",
+    "Price": "6.99/ea",
+    "Image": "https://www.freshdirect.com/media/images/product/bakery_1/bak_pid_4651296_z.jpg"
+  },
+  {
+    "Name": "St. PierreBrioche Waffles with Butter, Frozen",
+    "Price": "9.99/ea",
+    "Image": "https://www.freshdirect.com/media/images/product/bakery_2/bak_pid_3778042_z.jpg"
+  },
+  {
+    "Name": "JacquetFrench Crêpes, Plain",
+    "Price": "5.99/ea",
+    "Image": "https://www.freshdirect.com/media/images/product/pastry_2/pas_pid_4550062_z.jpg"
+  },
+  {
+    "Name": "JacquetBelgian Waffles, Original",
+    "Price": "41.22/ea",
+    "Image": "https://www.freshdirect.com/media/images/product/bakery_2/bak_pid_4201499_z.jpg"
+  },
+  {
+    "Name": "JacquetFrench Crêpes, Chocolate",
+    "Price": "59.88/ea",
+    "Image": "https://www.freshdirect.com/media/images/product/pastry_2/pas_pid_4202456_z.jpg"
+  }
+]

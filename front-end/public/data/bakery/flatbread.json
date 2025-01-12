@@ -1,0 +1,42 @@
+﻿[
+	{
+		"Name": "Sullivan St BakeryDisco Romano, Frozen",
+		"Price": "4.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/bakery_2/bak_pid_4651390_z.jpg"
+	},
+	{
+		"Name": "FreshDirect FrozenClassic Focaccia",
+		"Price": "5.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/bakery_2/bak_pid_4600184_z.jpg"
+	},
+	{
+		"Name": "Sullivan St BakeryPatate Pizza, Frozen",
+		"Price": "17.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/bakery_2/bak_pid_4651391_z.jpg"
+	},
+	{
+		"Name": "FreshDirect FrozenParmesan Focaccia",
+		"Price": "5.99\r\nSave 23%",
+		"Image": "https://www.freshdirect.com/media/images/product/bakery_2/bak_pid_4600185_z.jpg"
+	},
+	{
+		"Name": "AryaRoti, Whole Wheat",
+		"Price": "8.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/bakery_2/bak_pid_4651601_z.jpg"
+	},
+	{
+		"Name": "AryaRoti, Golden Curry",
+		"Price": "8.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/bakery_2/bak_pid_4651604_z.jpg"
+	},
+	{
+		"Name": "AryaRoti, Cumin Spinach",
+		"Price": "8.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/bakery_2/bak_pid_4651603_z.jpg"
+	},
+	{
+		"Name": "AryaRoti, Chia Multigrain",
+		"Price": "8.99/ea",
+		"Image": "https://www.freshdirect.com/media/images/product/bakery_2/bak_pid_4651602_z.jpg"
+	}
+]

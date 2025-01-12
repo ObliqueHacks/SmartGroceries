@@ -10,12 +10,12 @@ import { useEffect } from "react";
 
 // Inside your component
 
-const ProductCard = ({ item, index, columns }) => {
+const ProductCard = ({ item, index }) => {
   const { items, addItem, frequencyMap } = useCart();
   const { toast } = useToast();
 
   return (
-    <div className="relative w-[230px] h-[270px] flex flex-col items-center hover:underline underline-offset-4 p-2">
+    <div className="relative w-[230px] h-[270px] flex flex-col items-center hover:underline underline-offset-4 p-2 cursor-pointer">
       <img src={item.Image} className="w-[170px] h-[150px]" alt={item.Name} />
       <p className="pt-2 max-w-[170px] truncate  ">{item.Name}</p>
       <span className="flex flex-row justify-between mx-auto w-[92%] mt-auto font-medium">
@@ -33,12 +33,12 @@ const ProductCard = ({ item, index, columns }) => {
         </div>
       </span>
       {/* Display the separator only if the current item is not the last item in its row */}
-      {(index + 1) % columns !== 0 && (
+      {/* {(index + 1) % 6 !== 0 && (
         <Separator
           className="absolute left-[calc(100%)] mx-auto p-[1px]"
           orientation="vertical"
         />
-      )}
+      )} */}
     </div>
   );
 };

@@ -6,6 +6,7 @@ import { IoIosMenu } from "react-icons/io";
 import { IoMdClose } from "react-icons/io";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
+import { Label } from "@/components/ui/label";
 import {
   NavigationMenu,
   NavigationMenuContent,
@@ -25,6 +26,18 @@ import {
   SheetTitle,
   SheetTrigger,
 } from "@/components/ui/sheet";
+
+import {
+  Dialog,
+  DialogContent,
+  DialogDescription,
+  DialogFooter,
+  DialogHeader,
+  DialogTitle,
+  DialogTrigger,
+} from "@/components/ui/dialog";
+
+import { Input } from "@/components/ui/input";
 
 import { useCart } from "@/hooks/useCart";
 
@@ -77,14 +90,6 @@ export default function Mainnavbar() {
             Shop
           </NavigationMenuLink>
         </NavigationMenuItem>
-        <NavigationMenuItem>
-          <NavigationMenuLink
-            href="/contact"
-            className={navigationMenuTriggerStyle()}
-          >
-            Contact
-          </NavigationMenuLink>
-        </NavigationMenuItem>
       </div>
       <div className="flex justify-center items-center space-x-2 ">
         <IoIosMenu
@@ -103,14 +108,112 @@ export default function Mainnavbar() {
         ></IoMdClose>
         <span className="mb-4 flex flex-row gap-4 items-center">
           <p className="font-normal pt-4 text-xs md:text-sm">
-            <span className="text-slate-400">Account</span> <br></br>
-            <a className="underline underline-offset-4 hover:text-third transition-colors duration-300 cursor-pointer">
-              Login
-            </a>{" "}
+            <span className="text-slate-400">Login</span> <br></br>
+            <Dialog className="">
+              <DialogTrigger asChild>
+                <a className="underline underline-offset-4 hover:text-third transition-colors duration-300 cursor-pointer">
+                  Login
+                </a>
+              </DialogTrigger>
+              <DialogContent className="sm:max-w-[425px] h-[370px]">
+                <DialogHeader>
+                  <DialogTitle className="flex flex-row items-center">
+                    <img
+                      src="/assets/logo.png"
+                      className="w-[60px] h-[80px]"
+                    ></img>
+                    <span>Login</span>
+                  </DialogTitle>
+                </DialogHeader>
+                <div className="grid gap-4 py-4">
+                  <div className="grid grid-cols-4 items-center gap-4">
+                    <Label htmlFor="email" className="text-right">
+                      Username
+                    </Label>
+                    <Input
+                      id="email"
+                      placeholder="Enter your email or username"
+                      className="col-span-3 focus-visible:ring-transparent hover:border-third focus:border-third transition-colors ease-in duration-100 "
+                    />
+                  </div>
+                  <div className="grid grid-cols-4 items-center gap-4">
+                    <Label htmlFor="password" className="text-right">
+                      Password
+                    </Label>
+                    <Input
+                      id="password"
+                      type="password"
+                      placeholder="Enter a password"
+                      className="col-span-3 focus-visible:ring-transparent hover:border-third focus:border-third transition-colors ease-in duration-100"
+                    />
+                  </div>
+                </div>
+                <DialogFooter>
+                  <Button type="submit" className="bg-primary">
+                    Login
+                  </Button>
+                </DialogFooter>
+              </DialogContent>
+            </Dialog>{" "}
             or{" "}
-            <a className="underline underline-offset-4 hover:text-third transition-colors ease-in duration-300 cursor-pointer">
-              Create Account
-            </a>
+            <Dialog className="">
+              <DialogTrigger asChild>
+                <a className="underline underline-offset-4 hover:text-third transition-colors ease-in duration-300 cursor-pointer">
+                  Create Account
+                </a>
+              </DialogTrigger>
+              <DialogContent className="sm:max-w-[425px] h-[370px]">
+                <DialogHeader>
+                  <DialogTitle className="flex flex-row items-center">
+                    <img
+                      src="/assets/logo.png"
+                      className="w-[60px] h-[80px]"
+                    ></img>
+                    <span>Create Account</span>
+                  </DialogTitle>
+                </DialogHeader>
+                <div className="grid gap-4 py-4">
+                  <div className="grid grid-cols-4 items-center gap-4">
+                    <Label htmlFor="email" className="text-right">
+                      Email
+                    </Label>
+                    <Input
+                      id="email"
+                      placeholder="example@hotmail.com"
+                      className="col-span-3 focus-visible:ring-transparent border-2  hover:border-third focus:border-third transition-colors ease-in duration-100"
+                      type="email"
+                    />
+                  </div>
+                  <div className="grid grid-cols-4 items-center gap-4">
+                    <Label htmlFor="username" className="text-right">
+                      Username
+                    </Label>
+                    <Input
+                      id="username"
+                      placeholder="Enter your display name"
+                      className="col-span-3 focus-visible:ring-transparent hover:border-third focus:border-third transition-colors ease-in duration-100"
+                      type="username"
+                    />
+                  </div>
+                  <div className="grid grid-cols-4 items-center gap-4">
+                    <Label htmlFor="password" className="text-right">
+                      Password
+                    </Label>
+                    <Input
+                      id="password"
+                      type="password"
+                      placeholder="Enter a password"
+                      className="col-span-3 focus-visible:ring-transparent hover:border-third focus:border-third transition-colors ease-in duration-100"
+                    />
+                  </div>
+                </div>
+                <DialogFooter>
+                  <Button type="submit" className="bg-primary">
+                    Create
+                  </Button>
+                </DialogFooter>
+              </DialogContent>
+            </Dialog>
           </p>
           <Sheet>
             <SheetTrigger asChild>
